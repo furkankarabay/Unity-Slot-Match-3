@@ -1,0 +1,3 @@
+repository "GrandGames@furkankarabay190781@cloud"
+  path "/"
+    smartbranch "/main/New Version/Old Version/desired version with falling"
